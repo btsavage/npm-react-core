@@ -1,5 +1,5 @@
 {
-  "name": "react-core",
+  "name": "React",
   "version": "0.4.0",
   "description": "NPM module for Facebook's React Framework",
   "main": "modules/index.js",
